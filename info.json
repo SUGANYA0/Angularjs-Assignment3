@@ -1,0 +1,18 @@
+[
+    {
+      "item":"idly",
+      "description":"The best south Indian breakfast"
+    },
+    {
+      "item":"vadai",
+      "description":"The Evening snack"
+    },
+    {
+      "item":"noodles",
+      "description":"flavoured spicy food"
+    },
+    {
+      "item":"biryani",
+      "description":"spicy any time food"
+    }
+  ]
